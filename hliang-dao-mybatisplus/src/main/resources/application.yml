@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.12.12:20010/ami_boss_1.2?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai&autoReconnect=true&useAffectedRows=true
+    username: root
+    password: abcd#1234
